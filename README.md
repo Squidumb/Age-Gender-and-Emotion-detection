@@ -18,4 +18,7 @@ MTCNN <br />
 Keras 2.3.1 <br />
 OpenCV <br />
 
+For models you can go to: <br />
+https://drive.google.com/drive/folders/1T_a0RRdi5CzeeRu1C8kKLQbFxWedca57?usp=sharing  <br />
+
 Pre-trained models to be used are saved as models and can be downloaded (unzipped) for implementation.
