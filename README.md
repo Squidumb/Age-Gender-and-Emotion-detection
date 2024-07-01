@@ -1,4 +1,4 @@
-Requirements:
+Requirements: \n
 !pip uninstall segmentation-models -y
 !pip uninstall tensorflow -y
 !pip uninstall keras -y
